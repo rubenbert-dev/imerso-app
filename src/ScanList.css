@@ -1,0 +1,21 @@
+.Header {
+    margin: 20px auto;
+    max-width: 600px;
+    font-size: calc(10px + 1.5vmin);
+}
+
+.ScanList {
+    font-size: calc(10px + 1vmin);
+    max-width: 600px;
+    margin: 0 auto;
+    border-style: solid;
+}
+
+.ScanListItem {
+    padding: 10px;
+}
+
+.UserName {
+    padding: 10px;
+    font-size: calc(10px + 0.5vmin);
+}

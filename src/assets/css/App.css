@@ -1,0 +1,21 @@
+.app {
+    padding: 30px;
+}
+.app-header {
+    margin-bottom: 15px;
+}
+.app-header_title {
+    font-size: 2rem;
+}
+.app-page_title {
+    margin-bottom: 30px;
+}
+.scan-list-page .card-header .nav-link,
+.scan-form-page .card-header .nav-link {
+    padding: .25rem;
+}
+@media(max-width: 575px) {
+    .create-scan-btn {
+        margin-bottom: 15px;
+    }
+}
